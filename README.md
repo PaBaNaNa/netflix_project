@@ -21,7 +21,7 @@ tree
 1. assets/: store with netflix matrial.
 2. components/: store with reusable components.
 3. pages/: store with different pages, handle the visit logic using react-route-dom.
-4. store/: using redux to fetch api data, then dispatch for desired from http://api.themoviedb.org/3. to render Card component
+4. store/: using redux to fetch api data, then dispatch for desired from http://api.themoviedb.org. to render Card component
 5. utils/: constants.js is for export some constants, while firebase.js is for user auth
 
 ## Demo Pictures
